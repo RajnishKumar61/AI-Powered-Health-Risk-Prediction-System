@@ -37,6 +37,7 @@ Unlike traditional ML classification projects that act as black boxes, this syst
 
 ### Deployment & Visualization
 - Streamlit
+- Tableau
 
 ### Model & Artifact Management
 - Joblib (for saving models and preprocessors)
@@ -81,13 +82,6 @@ The application is deployed using **Streamlit**, providing a single public URL f
 - Medical explanations are shown alongside predictions
 
 This setup is ideal for **demos, interviews, and proof-of-concept deployments**.
-
----
-
-## 👥 Contributors
-
-- **Arsh Himanshu** – Machine Learning modeling, evaluation, threshold tuning, deployment  
-- **Teammate Name** – RAG pipeline implementation, vector database creation, documentation  
 
 ---
 

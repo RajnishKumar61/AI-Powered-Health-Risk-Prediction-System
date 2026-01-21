@@ -1,0 +1,12 @@
+streamlit
+numpy
+joblib
+scikit-learn
+xgboost
+imbalanced-learn
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+transformers
